@@ -3,6 +3,7 @@
 *.json
 *.rtf
 *.ttf
+*.zip
 sounds/
 Game Legacy/
 ost/
